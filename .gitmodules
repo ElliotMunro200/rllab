@@ -1,0 +1,9 @@
+[submodule "sandbox/vime"]
+	path = sandbox/vime
+	url = https://github.com/ElliotMunro200/vime.git
+[submodule "sandbox/vase"]
+	path = sandbox/vase
+	url = https://github.com/lechszym/vase.git
+[submodule "sandbox/snn4hrl"]
+	path = sandbox/snn4hrl
+	url = https://github.com/ElliotMunro200/snn4hrl.git
